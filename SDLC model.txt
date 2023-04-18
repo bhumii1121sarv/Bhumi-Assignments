@@ -1,0 +1,29 @@
+Date:14/04/2023
+Assignment 1 :- (SDLC)
+--------------------------------------------------------------------------------------------------------------
+Question 1:- What is sofware?
+answer:- Software is a set of instruction data or program used to oprate computer and specifics task.
+
+Question 2:- What are the type of Application?
+answer:- Types of applications are as below
+1.Web application
+2.Game application
+3.Machine learning and artifical Inteligeance
+4.Business Application
+5.GUI desktop
+6.Data science and data vizulazation
+7.Audio and video application
+8.web scrraping application
+9.CAD Application
+10.Embaddad Application
+
+Question 3 :- What is programing?
+answer:-A program is a list of instuction that is execute by a computer to accomplisha a  particular task.
+-creating those instuction is programming by a programmer.
+
+Question 4:- What is python?
+answer: Python is a popular programing langauage
+-it is a programming language language with the use of it we can create websites and applications.
+-it is easy to understand for begginers.
+-python have huge library collection.
+-it was created by gudio van rossum in 1991.
