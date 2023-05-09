@@ -1,0 +1,21 @@
+QUESTION 1 : How memory is managed in Python?
+ANSWER : The Python memory manager is involved only in the allocation of the bytes object returned as a result.
+In most situations, however, it is recommended to allocate memory from the Python heap specifically because the latter is under control of the Python memory manager.
+a = 1234
+print(id(a))
+
+QUESTION 2 :What is the purpose continue statement in python
+ANSWER : the continue statement we can stop the current iteration, and continue with the next
+ EX:
+ i = 1
+ while i < 6 :
+     i += 1:
+    if i == 3 :
+       continue 
+    print(i)
+    
+QUESTION 3 : What are negative indexes and why are they used ?
+ANSWER : Negative Indexing is used to in Python to begin slicing from the end of the string i.e. the last. Slicing in Python gets a sub-string from a string. The slicing range is set as parameters i.e. start, stop and step.
+A = "1,2,3,4,5,6"
+V = A.index(-1,-3)
+print(V)
